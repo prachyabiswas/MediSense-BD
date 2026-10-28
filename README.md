@@ -1,3 +1,4 @@
+
 # 🏥 MediSense BD — Unified Health Intelligence & AI Platform
 
 **MediSense BD** is an integrated national health intelligence platform engineered for Bangladesh. It combines **ML epidemic forecasting**, **interactive geospatial disease mapping**, **healthcare navigation**, **DGDA drug authenticity verification**, **Bengali symptom triage**, **dedicated female healthcare & mental support**, and a **page-wide AI Chatbot** into a unified dark-glassmorphic application.
